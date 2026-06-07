@@ -6,6 +6,8 @@ import os
 from collections import defaultdict
 from datetime import datetime
 
+from pypinyin import lazy_pinyin
+
 from tracker.models import RepoInfo
 
 
@@ -27,11 +29,10 @@ class MarkdownGenerator:
             "|------|------|------|----------|---------|--------|------|",
         ]
 
-        # Sort by last_commit descending, repos without commit data go last
+        # Sort by university pinyin, then by repo name
         sorted_repos = sorted(
             repos,
-            key=lambda r: r.last_commit or "0000-00-00",
-            reverse=True,
+            key=lambda r: (lazy_pinyin(r.university), r.id),
         )
 
         for r in sorted_repos:
