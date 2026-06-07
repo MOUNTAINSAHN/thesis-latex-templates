@@ -85,6 +85,11 @@ def main(
     univ_dir = os.path.join(output_dir, "universities")
     gen.generate_readme(repos, readme_path)
     gen.generate_detail_pages(repos, univ_dir)
+
+    # Also write to repo root so GitHub shows it as the landing page
+    root_readme = os.path.join(BASE_DIR, "README.md")
+    gen.generate_readme(repos, root_readme)
+
     logger.info("Output written to %s", output_dir)
 
     # 5. Print summary
