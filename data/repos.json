@@ -1,0 +1,14 @@
+[
+  {"id": "mohuangrui/ucasthesis", "university": "中国科学院大学", "university_en": "University of Chinese Academy of Sciences", "type": "unified", "source": "manual", "added_at": "2026-06-07"},
+  {"id": "sjtug/SJTUThesis", "university": "上海交通大学", "university_en": "Shanghai Jiao Tong University", "type": "unified", "source": "manual", "added_at": "2026-06-07"},
+  {"id": "TheNetAdmin/zjuthesis", "university": "浙江大学", "university_en": "Zhejiang University", "type": "unified", "source": "manual", "added_at": "2026-06-07"},
+  {"id": "ustctug/ustcthesis", "university": "中国科学技术大学", "university_en": "University of Science and Technology of China", "type": "unified", "source": "manual", "added_at": "2026-06-07"},
+  {"id": "tuna/thuthesis", "university": "清华大学", "university_en": "Tsinghua University", "type": "unified", "source": "manual", "added_at": "2026-06-07"},
+  {"id": "NWPUMetaphysicsOffice/Yet-Another-LaTeX-Template-for-NPU-Thesis", "university": "西北工业大学", "university_en": "Northwestern Polytechnical University", "type": "unified", "source": "manual", "added_at": "2026-06-07"},
+  {"id": "mengchaoheng/SCUT_thesis", "university": "华南理工大学", "university_en": "South China University of Technology", "type": "unified", "source": "manual", "added_at": "2026-06-07"},
+  {"id": "obster-y/XJTU-thesis", "university": "西安交通大学", "university_en": "Xi'an Jiaotong University", "type": "unified", "source": "manual", "added_at": "2026-06-07"},
+  {"id": "HFUTTUG/HFUT_Thesis", "university": "合肥工业大学", "university_en": "Hefei University of Technology", "type": "unified", "source": "manual", "added_at": "2026-06-07"},
+  {"id": "NewFuture/NKThesis", "university": "南开大学", "university_en": "Nankai University", "type": "unified", "source": "manual", "added_at": "2026-06-07"},
+  {"id": "Koyamin/ecnuthesis", "university": "华东师范大学", "university_en": "East China Normal University", "type": "unified", "source": "manual", "added_at": "2026-06-07"},
+  {"id": "sheng-qiang/BUPTBachelorThesis", "university": "北京邮电大学", "university_en": "Beijing University of Posts and Telecommunications", "type": "bachelor", "source": "manual", "added_at": "2026-06-07"}
+]
