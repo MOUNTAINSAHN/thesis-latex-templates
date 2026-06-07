@@ -25,8 +25,6 @@ class MarkdownGenerator:
             "",
             "## 📊 总览",
             "",
-            "| 学校 | 模板 | 版本 | 最近更新 | ⭐ Stars | 活跃度 | 特性 |",
-            "|------|------|------|----------|---------|--------|------|",
         ]
 
         # Sort by university pinyin, then by repo name
@@ -35,7 +33,17 @@ class MarkdownGenerator:
             key=lambda r: (lazy_pinyin(r.university), r.id),
         )
 
+        # Group by first pinyin letter
+        current_letter = ""
         for r in sorted_repos:
+            first_letter = lazy_pinyin(r.university)[0][0].upper()
+            if first_letter != current_letter:
+                current_letter = first_letter
+                lines.append(f"### {current_letter}")
+                lines.append("")
+                lines.append("| 学校 | 模板 | 版本 | 最近更新 | ⭐ Stars | 活跃度 | 特性 |")
+                lines.append("|------|------|------|----------|---------|--------|------|")
+
             name = f"[{r.id.split('/')[-1]}]({r.github_url})"
             version = r.latest_release or "无"
             update = r.release_date or "无"
@@ -59,18 +67,7 @@ class MarkdownGenerator:
             "- 🔴 不活跃：超过 6 个月无更新",
             "- ⚪ 无数据：无法获取信息",
             "- ⚠️ 错误：获取数据时出错",
-            "",
-            "## 🏫 按学校查看",
-            "",
         ])
-
-        # Generate per-school links
-        schools = defaultdict(list)
-        for r in repos:
-            schools[r.university].append(r)
-        for school in sorted(schools.keys()):
-            safe_name = self._safe_filename(school)
-            lines.append(f"- [{school}](universities/{safe_name}.md)")
 
         lines.append("")
         os.makedirs(os.path.dirname(path) or ".", exist_ok=True)
