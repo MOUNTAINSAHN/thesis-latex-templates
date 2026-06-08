@@ -1,6 +1,6 @@
 # 中国高校 LaTeX 论文模板追踪
 
-> 自动更新于 2026-06-07 · 追踪 127 个模板
+> 自动更新于 2026-06-08 · 追踪 127 个模板
 
 ## 📊 总览
 
@@ -15,7 +15,7 @@
 | 学校 | 模板 | 版本 | 最近更新 | ⭐ Stars | 活跃度 | 特性 |
 |------|------|------|----------|---------|--------|------|
 | 北方民族大学 | [NMUThesis](https://github.com/WizenZhang/NMUThesis) | v5.0 | 2019-06-12 | 6 | 🔴 不活跃 | - |
-| 北京大学 | [pkuthss](https://github.com/CasperVector/pkuthss) | v1.9.4 | 2024-03-07 | 613 | 🔴 不活跃 | - |
+| 北京大学 | [pkuthss](https://github.com/CasperVector/pkuthss) | v1.9.4 | 2024-03-07 | 614 | 🔴 不活跃 | - |
 | 北京工业大学 | [bjutthesis](https://github.com/FisherXT/bjutthesis) | ver.20201210 | 2021-01-03 | 23 | 🔴 不活跃 | - |
 | 北京航空航天大学 | [BUAAthesis](https://github.com/BHOSC/BUAAthesis) | v0.1 | 2018-04-06 | 1.3k | 🔴 不活跃 | - |
 | 北京航空航天大学 | [BUAAThesis](https://github.com/CheckBoxStudio/BUAAThesis) | v3.01 | 2022-01-24 | 606 | 🔴 不活跃 | - |
@@ -89,7 +89,7 @@
 | 学校 | 模板 | 版本 | 最近更新 | ⭐ Stars | 活跃度 | 特性 |
 |------|------|------|----------|---------|--------|------|
 | 吉林大学 | [JLU_Dissertation](https://github.com/jiafeng5513/JLU_Dissertation) | 无 | 无 | 125 | 🔴 不活跃 | - |
-| 吉林大学 | [JLU-CCST-Thesis](https://github.com/x86vk/JLU-CCST-Thesis) | 2018 | 2018-06-10 | 60 | 🔴 不活跃 | - |
+| 吉林大学 | [JLU-CCST-Thesis](https://github.com/x86vk/JLU-CCST-Thesis) | 2018 | 2018-06-10 | 59 | 🔴 不活跃 | - |
 | 江西财经大学 | [jufe-theis-tex](https://github.com/Frank17/jufe-theis-tex) | 无 | 无 | 21 | 🔴 不活跃 | - |
 ### L
 
@@ -112,7 +112,7 @@
 | 南京师范大学 | [nnuthesis](https://github.com/jordanzhouda/nnuthesis) | 无 | 无 | 10 | 🔴 不活跃 | - |
 | 南京信息工程大学 | [NUIST_Bachelor_Thesis_LaTeX_Template](https://github.com/sakronos/NUIST_Bachelor_Thesis_LaTeX_Template) | v2021.6.1 | 无 | 76 | 🔴 不活跃 | - |
 | 南京邮电大学 | [NJUPThesis-Bachelor](https://github.com/imguozr/NJUPThesis-Bachelor) | 无 | 无 | 79 | 🔴 不活跃 | Overleaf |
-| 南开大学 | [NKThesis](https://github.com/NewFuture/NKThesis) | v2.1.0 | 2025-05-08 | 205 | 🔴 不活跃 | Overleaf |
+| 南开大学 | [NKThesis](https://github.com/NewFuture/NKThesis) | v2.1.0 | 2025-05-08 | 206 | 🔴 不活跃 | Overleaf |
 ### Q
 
 | 学校 | 模板 | 版本 | 最近更新 | ⭐ Stars | 活跃度 | 特性 |
@@ -184,7 +184,7 @@
 
 | 学校 | 模板 | 版本 | 最近更新 | ⭐ Stars | 活跃度 | 特性 |
 |------|------|------|----------|---------|--------|------|
-| 浙江财经大学 | [ZUFE-Thesis](https://github.com/sqsssq/ZUFE-Thesis) | v1.1.0 | 2022-03-26 | 21 | 🟢 活跃 | Overleaf |
+| 浙江财经大学 | [ZUFE-Thesis](https://github.com/sqsssq/ZUFE-Thesis) | v1.1.0 | 2022-03-26 | 21 | 🟢 活跃 | latexmk, Overleaf |
 | 浙江传媒学院 | [cuzthesis](https://github.com/xiehao/cuzthesis) | 2020 | 无 | 38 | 🟢 活跃 | latexmk, Overleaf |
 | 浙江大学 | [zjuthesis](https://github.com/TheNetAdmin/zjuthesis) | v10.0.1 | 2023-11-13 | 3.7k | 🔴 不活跃 | latexmk, Overleaf |
 | 浙江大学 | [write_with_LaTeX](https://github.com/ZJU-Awesome/write_with_LaTeX) | v1.0 | 无 | 140 | 🔴 不活跃 | - |
