@@ -1,6 +1,6 @@
 # 中国高校 LaTeX 论文模板追踪
 
-> 自动更新于 2026-09-28 · 追踪 127 个模板
+> 自动更新于 2026-10-05 · 追踪 127 个模板
 
 ## 📊 总览
 
@@ -15,7 +15,7 @@
 | 学校 | 模板 | 版本 | 最近更新 | ⭐ Stars | 活跃度 | 特性 |
 |------|------|------|----------|---------|--------|------|
 | 北方民族大学 | [NMUThesis](https://github.com/WizenZhang/NMUThesis) | v5.0 | 2019-06-12 | 6 | 🔴 不活跃 | - |
-| 北京大学 | [pkuthss](https://github.com/CasperVector/pkuthss) | v1.9.4 | 2024-03-07 | 626 | 🔴 不活跃 | - |
+| 北京大学 | [pkuthss](https://github.com/CasperVector/pkuthss) | v1.9.4 | 2024-03-07 | 627 | 🔴 不活跃 | - |
 | 北京工业大学 | [bjutthesis](https://github.com/FisherXT/bjutthesis) | ver.20201210 | 2021-01-03 | 23 | 🔴 不活跃 | - |
 | 北京航空航天大学 | [BUAAthesis](https://github.com/BHOSC/BUAAthesis) | v0.1 | 2018-04-06 | 1.3k | 🔴 不活跃 | - |
 | 北京航空航天大学 | [BUAAThesis](https://github.com/CheckBoxStudio/BUAAThesis) | v3.01 | 2022-01-24 | 609 | 🔴 不活跃 | - |
@@ -32,7 +32,7 @@
 |------|------|------|----------|---------|--------|------|
 | 长安大学 | [chdthesis](https://github.com/xiaoleeza/chdthesis) | 无 | 无 | 50 | 🔴 不活跃 | latexmk |
 | 成都信息工程大学 | [thesis-cuit](https://github.com/QiaoHao9/thesis-cuit) | 无 | 无 | 23 | 🔴 不活跃 | latexmk |
-| 重庆大学 | [CQUThesis](https://github.com/nanmu42/CQUThesis) | v1.50 | 2020-06-23 | 345 | 🟡 一般 | latexmk |
+| 重庆大学 | [CQUThesis](https://github.com/nanmu42/CQUThesis) | v1.50 | 2020-06-23 | 344 | 🟡 一般 | latexmk |
 ### D
 
 | 学校 | 模板 | 版本 | 最近更新 | ⭐ Stars | 活跃度 | 特性 |
@@ -78,7 +78,7 @@
 | 华东理工大学 | [Ecust_Bachelor_LaTeX_Template](https://github.com/fireflylyn/Ecust_Bachelor_LaTeX_Template) | 无 | 无 | 13 | 🔴 不活跃 | - |
 | 华东师范大学 | [ecnuthesis](https://github.com/Koyamin/ecnuthesis) | v1.1 | 2026-06-08 | 83 | 🟡 一般 | Overleaf |
 | 华南理工大学 | [scutthesis](https://github.com/alwintsui/scutthesis) | 无 | 无 | 250 | 🔴 不活跃 | - |
-| 华南理工大学 | [SCUT_thesis](https://github.com/mengchaoheng/SCUT_thesis) | 无 | 无 | 582 | 🟢 活跃 | Overleaf |
+| 华南理工大学 | [SCUT_thesis](https://github.com/mengchaoheng/SCUT_thesis) | 无 | 无 | 584 | 🟢 活跃 | Overleaf |
 | 华南师范大学 | [latex-scnu](https://github.com/claviering/latex-scnu) | 无 | 无 | 53 | 🔴 不活跃 | Overleaf |
 | 华中科技大学 | [HUST-PhD-Thesis-Latex-v3.1](https://github.com/Lianghao93/HUST-PhD-Thesis-Latex-v3.1) | 无 | 无 | 34 | 🔴 不活跃 | Overleaf |
 | 华中科技大学 | [HUST-PhD-Thesis-Latex](https://github.com/XinzeZhang/HUST-PhD-Thesis-Latex) | 无 | 无 | 279 | 🟢 活跃 | Overleaf |
@@ -102,11 +102,11 @@
 | 学校 | 模板 | 版本 | 最近更新 | ⭐ Stars | 活跃度 | 特性 |
 |------|------|------|----------|---------|--------|------|
 | 南昌大学 | [NCU-thesis](https://github.com/Jin-bao/NCU-thesis) | v1.1f | 2025-03-26 | 59 | 🔴 不活跃 | LaTeX3 |
-| 南方科技大学 | [sustech-master-thesis](https://github.com/SUSTech-CRA/sustech-master-thesis) | v1.3.24 | 2026-08-15 | 326 | 🟢 活跃 | latexmk, Overleaf |
+| 南方科技大学 | [sustech-master-thesis](https://github.com/SUSTech-CRA/sustech-master-thesis) | v1.3.24 | 2026-08-15 | 327 | 🟢 活跃 | latexmk, Overleaf |
 | 南方科技大学 | [sustechthesis](https://github.com/iydon/sustechthesis) | v1.4.0 | 2026-08-15 | 349 | 🟢 活跃 | latexmk, Overleaf |
 | 南京大学 | [NJUThesis](https://github.com/nju-lug/NJUThesis) | v1.5.1 | 2026-06-02 | 704 | 🟡 一般 | Overleaf |
 | 南京大学 | [njuthesis-nju-thesis-template](https://github.com/njuhan/njuthesis-nju-thesis-template) | 无 | 无 | 370 | 🔴 不活跃 | - |
-| 南京航空航天大学 | [nuaathesis](https://github.com/nuaatug/nuaathesis) | v2.7 | 2026-05-31 | 402 | 🟡 一般 | - |
+| 南京航空航天大学 | [nuaathesis](https://github.com/nuaatug/nuaathesis) | v2.7 | 2026-05-31 | 404 | 🟡 一般 | - |
 | 南京理工大学 | [NJUST-Bachelor-Thesis](https://github.com/kb1000fx/NJUST-Bachelor-Thesis) | 无 | 无 | 30 | 🔴 不活跃 | - |
 | 南京农业大学 | [NJAU_Thesis](https://github.com/waiichou/NJAU_Thesis) | 无 | 无 | 7 | 🔴 不活跃 | - |
 | 南京师范大学 | [nnuthesis](https://github.com/jordanzhouda/nnuthesis) | 无 | 无 | 10 | 🔴 不活跃 | - |
@@ -118,7 +118,7 @@
 | 学校 | 模板 | 版本 | 最近更新 | ⭐ Stars | 活跃度 | 特性 |
 |------|------|------|----------|---------|--------|------|
 | 青岛大学 | [QDUthesis](https://github.com/paralevi/QDUthesis) | 无 | 无 | 15 | 🔴 不活跃 | - |
-| 清华大学 | [thuthesis](https://github.com/tuna/thuthesis) | v7.7.1 | 2026-05-26 | 5.4k | 🟡 一般 | latexmk, Overleaf |
+| 清华大学 | [thuthesis](https://github.com/tuna/thuthesis) | v7.7.1 | 2026-05-26 | 5.5k | 🟡 一般 | latexmk, Overleaf |
 ### S
 
 | 学校 | 模板 | 版本 | 最近更新 | ⭐ Stars | 活跃度 | 特性 |
@@ -143,8 +143,8 @@
 |------|------|------|----------|---------|--------|------|
 | 天津大学 | [TJUThesis_master_2021](https://github.com/a171232886/TJUThesis_master_2021) | 无 | 无 | 448 | 🔴 不活跃 | Overleaf |
 | 天津大学 | [TJUThesisLatexTemplate](https://github.com/xnth97/TJUThesisLatexTemplate) | 无 | 无 | 157 | 🔴 不活跃 | - |
-| 同济大学 | [TongjiThesis](https://github.com/TJ-CSCCG/TongjiThesis) | v1.5.0 | 2026-09-01 | 439 | 🟢 活跃 | latexmk, Overleaf |
-| 同济大学 | [TongjiThesis](https://github.com/marquistj13/TongjiThesis) | v2.0.7 | 2018-11-30 | 353 | 🔴 不活跃 | - |
+| 同济大学 | [TongjiThesis](https://github.com/TJ-CSCCG/TongjiThesis) | v1.5.0 | 2026-09-01 | 440 | 🟢 活跃 | latexmk, Overleaf |
+| 同济大学 | [TongjiThesis](https://github.com/marquistj13/TongjiThesis) | v2.0.7 | 2018-11-30 | 354 | 🔴 不活跃 | - |
 ### W
 
 | 学校 | 模板 | 版本 | 最近更新 | ⭐ Stars | 活跃度 | 特性 |
@@ -159,11 +159,11 @@
 | 西安电子科技大学 | [XDUthesis_xelatex-master-2019](https://github.com/Faust-Wang/XDUthesis_xelatex-master-2019) | 无 | 无 | 37 | 🔴 不活跃 | - |
 | 西安电子科技大学 | [xduts](https://github.com/note286/xduts) | v6.2.9.0 | 无 | 1.1k | 🔴 不活跃 | Overleaf |
 | 西安交通大学 | [xjtuthesis](https://github.com/Aetf/xjtuthesis) | v0.6.7 | 2016-06-07 | 275 | 🔴 不活跃 | Overleaf |
-| 西安交通大学 | [XJTU-thesis](https://github.com/obster-y/XJTU-thesis) | 1.2.7 | 2021-07-22 | 414 | 🔴 不活跃 | LaTeX3, latexmk |
+| 西安交通大学 | [XJTU-thesis](https://github.com/obster-y/XJTU-thesis) | 1.2.7 | 2021-07-22 | 415 | 🔴 不活跃 | LaTeX3, latexmk |
 | 西安石油大学 | [xsyu-latex](https://github.com/h2y/xsyu-latex) | 无 | 无 | 17 | 🔴 不活跃 | - |
 | 西北工业大学 | [Yet-Another-LaTeX-Template-for-NPU-Thesis](https://github.com/NWPUMetaphysicsOffice/Yet-Another-LaTeX-Template-for-NPU-Thesis) | v1.8.5 | 2023-11-04 | 616 | 🔴 不活跃 | Overleaf |
 | 西北工业大学 | [LaTeX-Template-For-NPU-Thesis](https://github.com/polossk/LaTeX-Template-For-NPU-Thesis) | v1.5.0 | 2020-04-26 | 290 | 🔴 不活跃 | - |
-| 西南财经大学 | [swufethesis](https://github.com/OopsYao/swufethesis) | v1.0.0-alpha.1 | 2021-03-16 | 13 | 🔴 不活跃 | - |
+| 西南财经大学 | [swufethesis](https://github.com/OopsYao/swufethesis) | v1.0.0-alpha.1 | 2021-03-16 | 12 | 🔴 不活跃 | - |
 | 西南交通大学 | [swjtuthesis](https://github.com/swjtutug/swjtuthesis) | v1.2 | 2019-12-09 | 42 | 🔴 不活跃 | latexmk |
 | 西南石油大学 | [swputhesis](https://github.com/qingbyin/swputhesis) | 无 | 无 | 7 | 🔴 不活跃 | - |
 | 厦门大学 | [XMU-thesis](https://github.com/CamuseCao/XMU-thesis) | v0.4 | 2020-10-07 | 108 | 🔴 不活跃 | Overleaf |
@@ -184,20 +184,20 @@
 
 | 学校 | 模板 | 版本 | 最近更新 | ⭐ Stars | 活跃度 | 特性 |
 |------|------|------|----------|---------|--------|------|
-| 浙江财经大学 | [ZUFE-Thesis](https://github.com/sqsssq/ZUFE-Thesis) | v1.1.0 | 2022-03-26 | 24 | 🟢 活跃 | latexmk, Overleaf |
+| 浙江财经大学 | [ZUFE-Thesis](https://github.com/sqsssq/ZUFE-Thesis) | v1.1.0 | 2022-03-26 | 25 | 🟢 活跃 | latexmk, Overleaf |
 | 浙江传媒学院 | [cuzthesis](https://github.com/xiehao/cuzthesis) | 2020 | 无 | 39 | 🟡 一般 | latexmk, Overleaf |
 | 浙江大学 | [zjuthesis](https://github.com/TheNetAdmin/zjuthesis) | v10.0.1 | 2023-11-13 | 3.8k | 🔴 不活跃 | latexmk, Overleaf |
 | 浙江大学 | [write_with_LaTeX](https://github.com/ZJU-Awesome/write_with_LaTeX) | v1.0 | 无 | 140 | 🔴 不活跃 | - |
 | 中国海洋大学 | [UndergraduateThesisLaTeXTemplate](https://github.com/OSOUC/UndergraduateThesisLaTeXTemplate) | v0.3 | 2020-05-18 | 49 | 🔴 不活跃 | - |
 | 中国科学技术大学 | [ustcthesis](https://github.com/ustctug/ustcthesis) | v5.0.2 | 2026-09-27 | 2.1k | 🟢 活跃 | LaTeX3, latexmk, Overleaf |
 | 中国科学院大学 | [ucasthesis](https://github.com/mohuangrui/ucasthesis) | v1.0 | 2018-01-30 | 3.9k | 🔴 不活跃 | Overleaf |
-| 中国科学院大学 | [UCASthesis](https://github.com/xiaoyao9933/UCASthesis) | 无 | 无 | 237 | 🔴 不活跃 | latexmk |
+| 中国科学院大学 | [UCASthesis](https://github.com/xiaoyao9933/UCASthesis) | 无 | 无 | 238 | 🔴 不活跃 | latexmk |
 | 中国矿业大学(北京) | [CUMTB-Latex](https://github.com/jiandong4388/CUMTB-Latex) | 无 | 无 | 12 | 🔴 不活跃 | - |
 | 中国农业大学 | [CAUTemplate](https://github.com/Cdmium/CAUTemplate) | 无 | 无 | 31 | 🔴 不活跃 | - |
 | 中国人民大学 | [ructhesis](https://github.com/ZebinWang/ructhesis) | 无 | 无 | 135 | 🔴 不活跃 | - |
 | 中国石油大学(华东) | [UPCThesis_advanced](https://github.com/DotWang/UPCThesis_advanced) | 无 | 无 | 9 | 🔴 不活跃 | - |
 | 中南大学 | [CSU-Thesis-LaTeX-Template](https://github.com/CSGrandeur/CSU-Thesis-LaTeX-Template) | 1.4 | 2020-02-19 | 78 | 🔴 不活跃 | - |
-| 中山大学 | [sysu-thesis](https://github.com/SYSU-SCC/sysu-thesis) | v2.1.1 | 2026-06-15 | 961 | 🟢 活跃 | latexmk, Overleaf |
+| 中山大学 | [sysu-thesis](https://github.com/SYSU-SCC/sysu-thesis) | v2.1.1 | 2026-06-15 | 963 | 🟢 活跃 | latexmk, Overleaf |
 | 中央财经大学 | [CUFE_thesis_LaTeX_template](https://github.com/DoniaHakurei/CUFE_thesis_LaTeX_template) | 无 | 无 | 11 | 🔴 不活跃 | - |
 
 ## 📈 活跃度说明
